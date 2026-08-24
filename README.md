@@ -1,5 +1,6 @@
 # TELEHEALTH_COMPREHENSIVE_PLATFORM
 Business Analysis artifacts for Telehealth Comprehensive Platform project.
+
 ĐỀ BÀI DỰ ÁN: XÂY DỰNG HỆ THỐNG ĐẶT LỊCH VÀ KHÁM BỆNH TỪ XA 
 1. Bối cảnh dự án
 Một chuỗi phòng khám đa khoa quốc tế muốn chuyển đổi số bằng cách xây dựng hệ thống Telehealth (gồm Mobile App cho bệnh nhân và Web Portal cho bác sĩ/quản trị viên). Mục tiêu nhằm giảm tải thời gian chờ đợi tại phòng khám, kết nối bác sĩ với bệnh nhân từ xa qua cuộc gọi video, và quản lý hồ sơ bệnh án điện tử tập trung.
@@ -7,6 +8,7 @@ Một chuỗi phòng khám đa khoa quốc tế muốn chuyển đổi số bằ
 Bệnh nhân: Đăng ký tài khoản, tìm kiếm bác sĩ theo chuyên khoa/mức giá, đặt lịch khám, thanh toán trực tuyến, tham gia cuộc gọi video với bác sĩ, và xem đơn thuốc điện tử.
 Bác sĩ: Quản lý lịch hẹn trống, nhận cuộc gọi khám từ xa, ghi chú bệnh án (EMR), và kê đơn thuốc số.
 Quản trị viên (Admin): Quản lý danh mục bác sĩ, phê duyệt lịch làm việc, xem báo cáo doanh thu và quản lý cấu hình hệ thống.
+
 KẾT QUẢ MONG ĐỢI
 1. Requirement Artifacts
 Tài liệu BRD (Business Requirements Document): Xác định rõ mục tiêu chiến lược, phạm vi dự án (In-scope/Out-of-scope), và các chỉ số đo lường thành công (KPIs).
